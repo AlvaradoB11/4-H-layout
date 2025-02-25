@@ -1,0 +1,1 @@
+Please adjust or give me all the features I need to add. It seems theres collision on what Dakota and I are working on. If you give me what I need to add I can work that way or we can work off of my react code.
